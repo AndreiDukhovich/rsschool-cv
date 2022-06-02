@@ -6,10 +6,12 @@
 * Telegram: @Andrei1537.
 
 # About myself:
+
 ## My goals:
 - Become a top programmer;
 - Learn many new technologies and practices;
 - Create useful product to people.
+- 
 ## My strengths:
 - Curiosity;
 - Educability;
