@@ -7,16 +7,16 @@
 
 # About myself:
 ## My goals:
-* Become a top programmer;
-* Learn many new technologies and practices;
-* Create useful product to people.
+- Become a top programmer;
+- Learn many new technologies and practices;
+- Create useful product to people.
 ## My strengths:
-* Curiosity;
-* Educability;
-* Perseverance.
+- Curiosity;
+- Educability;
+- Perseverance.
 
 # My skills:
-* HTML and CSS;
-* JavaScript;
-* Python (Django Framework);
-* English (A2).
++ HTML and CSS;
++ JavaScript;
++ Python (Django Framework);
++ English (A2).
